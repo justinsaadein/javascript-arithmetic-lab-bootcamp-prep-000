@@ -1,4 +1,4 @@
 function add(a, b, string) {
-  staring = a + b
+  string = a + b
   return string
 }
