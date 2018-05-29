@@ -25,6 +25,7 @@ function inc(n, string) {
 
 function dec(n, string) {
   string = n--
+  
   string = n--
   return string
 }
