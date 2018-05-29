@@ -27,3 +27,8 @@ function dec(n, string) {
   string = n--
   return string
 }
+
+function makeInt(n, string) {
+  string = parseInt(n, 10)
+  return string
+}
