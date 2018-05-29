@@ -22,3 +22,8 @@ function inc(n, string) {
   string = n++
   return n
 }
+
+function dec(n, string) {
+  string = n--
+  return string
+}
