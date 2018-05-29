@@ -35,3 +35,6 @@ function makeInt(n, string) {
   return string
 }
 
+function preserveDecimal(n, string) {
+  
+}
