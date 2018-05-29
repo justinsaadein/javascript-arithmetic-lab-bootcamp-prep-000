@@ -18,6 +18,7 @@ function divide(a, b, string) {
   return string
 }
 
-function inc(n) {
-  return n++
+function inc(n, string) {
+  string = n++
+  return n
 }
