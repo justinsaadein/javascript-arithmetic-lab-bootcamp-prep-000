@@ -25,6 +25,7 @@ function inc(n, string) {
 
 function dec(n, string) {
   string = n--
+  string = n--
   return string
 }
 
@@ -32,3 +33,4 @@ function makeInt(n, string) {
   string = parseInt(n, 10)
   return string
 }
+
